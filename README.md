@@ -11,10 +11,10 @@ I have tried to polish it and have tested it well :D.
 View it here https://ashudev05.github.io/weather-app-advanced/
 ## Usage
 The welcome screen shows the format data.
-![alt text](https://github.com/ASHUdev05/weather-app-advanced/blob/Markdown-data/sample.png?raw=true)
+![alt text](https://github.com/ASHUdev05/weather-app-advanced/blob/main/sample.png?raw=true)
 ***
 You can input your location and get the results.
-![alt text](https://github.com/ASHUdev05/weather-app-advanced/blob/Markdown-data/sample1.png?raw=true)
+![alt text](https://github.com/ASHUdev05/weather-app-advanced/blob/main/sample1.png?raw=true)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
